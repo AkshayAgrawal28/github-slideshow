@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is my first commit
+I am having fun in GitHub
